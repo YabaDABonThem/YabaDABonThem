@@ -1,16 +1,24 @@
-### Hi there 👋
+![Yabadaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yabadababalaba&show_icons=true&theme=tokyonight)
 
-<!--
-**Yabadababalaba/Yabadababalaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a>
+<img src="https://cdn.discordapp.com/avatars/707743097488146524/a_5f83b3dae7df2603361abda63bae9012.gif?size=128" alt="Avatar" style="border-radius: 75%;">
+  </a><br>
+</p>
 
-Here are some ideas to get you started:
+<h1 style="text-align: center;" align="center"> Socials </h1> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discord.bio/p/sgg">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
+</a>
+<a href="https://www.twitch.tv/shredgnargames">
+  <img align="left" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
+  <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
+</a>
+
+<div class="display">
+<h1 style="width:800px; text-align: center;" align="center"> Projects </h1>
+  <a href="http://statify.ga"> <p style="text-align: center;"align="center">Statify<br></p></>
+</div>

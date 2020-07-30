@@ -22,3 +22,5 @@
     <img alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" >
   </a>
 </p>
+
+<h1 style="text-align: center;" align="center"> Rarted </h1> <br>

@@ -15,7 +15,7 @@
   <a href="https://discord.bio/p/Yabadaba">
     <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
   </a>
-  <a href="https://www.twitch.tv/yabadababalaba">
+  <a href="https://www.twitch.tv/yabonthem">
     <img alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UC381YFQJubQanhHWrDCZviw">

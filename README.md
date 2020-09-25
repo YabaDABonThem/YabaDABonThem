@@ -1,8 +1,9 @@
+
 <h1 style="text-align: center;" align="center"> My Profile </h1> <br>
 
 <p align="center">
   <a>
-<img src="https://cdn.discordapp.com/avatars/237402579301171220/01575e94a6a2772d9260c31676b913f2.png?size=256" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/avatars/237402579301171220/a_543779d50f6522de1a39f75c3842b094.gif?size=512" alt="Avatar" style="border-radius: 75%;">
   </a><br>
 </p>
 
@@ -24,3 +25,7 @@
 </p>
 
 <h1 style="text-align: center;" align="center"> Rarted </h1> <br>
+
+<p align="center">
+<iframe src="https://discordapp.com/widget?id=275459310765735937&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</p>

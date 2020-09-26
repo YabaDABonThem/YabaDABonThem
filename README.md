@@ -27,5 +27,5 @@
 <h1 style="text-align: center;" align="center"> Rarted </h1> <br>
 
 <p align="center">
-<iframe src="https://discordapp.com/widget?id=275459310765735937&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[Rarted Discord Server](https://discord.gg/rarted) 
 </p>

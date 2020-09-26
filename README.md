@@ -26,6 +26,9 @@
 
 <h1 style="text-align: center;" align="center"> Rarted </h1> <br>
 
-
-[Rarted Discord Server](https://discord.gg/rarted) 
+<p align="center">
+  <a href="https://discord.gg/rarted">
+    Rarted Discord Server
+  </a>
+</p>
 

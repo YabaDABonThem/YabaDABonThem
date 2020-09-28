@@ -29,3 +29,5 @@
 <p align="center">
 <iframe src="https://discordapp.com/widget?id=275459310765735937&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </p>
+
+oops this is broken but I'm too lazy to fix lmao

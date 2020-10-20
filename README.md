@@ -27,7 +27,9 @@
 <h1 style="text-align: center;" align="center"> Rarted </h1> <br>
 
 <p align="center">
-<iframe src="https://discordapp.com/widget?id=275459310765735937&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <a href="https://discord.gg/rarted">
+    <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
+  </a>
 </p>
 
 oops this is broken but I'm too lazy to fix lmao

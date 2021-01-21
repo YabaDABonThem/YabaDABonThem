@@ -3,7 +3,7 @@
 
 <p align="center">
   <a>
-<img src="https://cdn.discordapp.com/avatars/237402579301171220/a_543779d50f6522de1a39f75c3842b094.gif?size=512" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/avatars/237402579301171220/a_434d76d57007f30c54e4afb0f54e259d.png" alt="Avatar" style="border-radius: 75%;">
   </a><br>
 </p>
 

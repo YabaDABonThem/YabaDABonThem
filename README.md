@@ -27,11 +27,7 @@
 <h1 style="text-align: center;" align="center"> Rarted </h1> <br>
 
 <p align="center">
-  <a href="https://discord.gg/rarted">
-    <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
-  </a>
+  <img src="https://discordapp.com/api/guilds/275459310765735937/widget.png?style=banner2" alt="Discord Banner 2"/>
 </p>
-
-oops this is broken but I'm too lazy to fix lmao
 
 # Currently have no PC to code

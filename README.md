@@ -6,6 +6,7 @@
 <img src="https://cdn.discordapp.com/avatars/237402579301171220/a_434d76d57007f30c54e4afb0f54e259d.png" alt="Avatar" style="border-radius: 75%;">
   </a><br>
   ![Yabadaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yabadababalaba&show_icons=true&theme=tokyonight)
+  <br>
 </p>
 <p align="center">
 <h1 style="text-align: center;" align="center"> Socials </h1> <br>

@@ -22,7 +22,7 @@
   <a href="https://discord.gg/mDDr2gz">
     <img src="https://discordapp.com/api/guilds/275459310765735937/widget.png?style=banner2" alt="Discord Banner 2"/>
   </a>
-   <a href="https://discord.gg/kcdw9NSNkC">
+  <a href="https://discord.gg/kcdw9NSNkC">
     <img src="https://discordapp.com/api/guilds/802015556478959636/widget.png?style=banner2" alt="Discord Banner 2"/>
   </a>
 </p>

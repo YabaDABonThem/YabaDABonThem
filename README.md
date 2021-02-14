@@ -2,13 +2,6 @@
 <h1 style="text-align: center;" align="center"> My Profile </h1> <br>
 
 <p align="center">
-  <a>
-<img src="https://cdn.discordapp.com/avatars/237402579301171220/a_434d76d57007f30c54e4afb0f54e259d.png" alt="Avatar" style="border-radius: 75%;">
-  </a><br>
-  ![Yabadaba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yabadababalaba&show_icons=true&theme=tokyonight)
-  <br>
-</p>
-<p align="center">
 <h1 style="text-align: center;" align="center"> Socials </h1> <br>
   <a href="https://discord.bio/p/Yabadaba">
     <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />

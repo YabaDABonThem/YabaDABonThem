@@ -6,3 +6,4 @@
 
 # Currently have no PC to code
 # Yes I know this is broken
+nvm I just got too lazy to fix this lmao
